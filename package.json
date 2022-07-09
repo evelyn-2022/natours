@@ -1,0 +1,23 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass -w sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evelyn-2022/natours.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evelyn-2022/natours/issues"
+  },
+  "homepage": "https://github.com/evelyn-2022/natours#readme",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}
